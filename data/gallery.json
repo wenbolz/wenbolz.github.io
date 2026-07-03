@@ -1,0 +1,67 @@
+{
+  "photos": [
+    {
+      "src": "assets/images/gallery/life-01.jpg",
+      "caption": {
+        "zh": "生活照片 01",
+        "en": "Life Photo 01"
+      }
+    },
+    {
+      "src": "assets/images/gallery/life-02.jpg",
+      "caption": {
+        "zh": "生活照片 02",
+        "en": "Life Photo 02"
+      }
+    },
+    {
+      "src": "assets/images/gallery/life-03.jpg",
+      "caption": {
+        "zh": "生活照片 03",
+        "en": "Life Photo 03"
+      }
+    },
+    {
+      "src": "assets/images/gallery/life-04.jpg",
+      "caption": {
+        "zh": "生活照片 04",
+        "en": "Life Photo 04"
+      }
+    },
+    {
+      "src": "assets/images/gallery/life-05.jpg",
+      "caption": {
+        "zh": "生活照片 05",
+        "en": "Life Photo 05"
+      }
+    },
+    {
+      "src": "assets/images/gallery/life-06.jpg",
+      "caption": {
+        "zh": "生活照片 06",
+        "en": "Life Photo 06"
+      }
+    },
+    {
+      "src": "assets/images/gallery/life-07.jpg",
+      "caption": {
+        "zh": "生活照片 07",
+        "en": "Life Photo 07"
+      }
+    },
+    {
+      "src": "assets/images/gallery/life-08.jpg",
+      "caption": {
+        "zh": "生活照片 08",
+        "en": "Life Photo 08"
+      }
+    },
+    {
+      "src": "assets/images/gallery/life-09.jpg",
+      "caption": {
+        "zh": "生活照片 09",
+        "en": "Life Photo 09"
+      }
+    }
+  ]
+}

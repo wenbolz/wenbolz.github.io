@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="WD">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16324f" />
+      <stop offset="100%" stop-color="#2f7f7b" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#g)" />
+  <text
+    x="50%"
+    y="56%"
+    text-anchor="middle"
+    font-family="Manrope, Arial, sans-serif"
+    font-size="24"
+    font-weight="700"
+    fill="#ffffff"
+  >
+    WD
+  </text>
+</svg>

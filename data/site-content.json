@@ -1,0 +1,275 @@
+{
+  "site": {
+    "title": {
+      "zh": "邓文博 | 个人主页",
+      "en": "Wenbo Deng | Personal Homepage"
+    },
+    "description": {
+      "zh": "邓文博个人主页，涵盖个人简介、研究方向、论文成果、生活照片与联系方式。",
+      "en": "Personal homepage of Wenbo Deng featuring biography, research directions, publications, life gallery, and contact details."
+    }
+  },
+  "person": {
+    "name": {
+      "zh": "邓文博",
+      "en": "Wenbo Deng"
+    },
+    "role": {
+      "zh": "博士 / 副教授 / 硕士生导师",
+      "en": "Ph.D. / Associate Professor / Master Supervisor"
+    },
+    "affiliation": {
+      "zh": "扬州大学教育技术系",
+      "en": "Department of Educational Technology, Yangzhou University"
+    },
+    "email": "dengwenbo@yzu.edu.cn",
+    "avatar": "assets/images/profile/avatar.jpg",
+    "heroIntro": {
+      "zh": "长期从事教育媒体与心理、AI4STEM 教育、生成式 AI 教学应用等人工智能教育研究，关注研究与教学实践之间真正可落地的连接。",
+      "en": "Long engaged in AI-in-education research spanning educational media and psychology, AI4STEM education, and generative AI for teaching, with a strong focus on practical impact."
+    },
+    "heroCardNote": {
+      "zh": "持续关注人工智能如何切实进入教学设计、课堂支持与学习发展之中，并形成真正可用的教育实践路径。",
+      "en": "Focused on how AI can be meaningfully integrated into instructional design, classroom support, and learner development with real educational value."
+    },
+    "about": {
+      "zh": "邓文博，博士，扬州大学教育技术系副教授、硕士生导师，长期从事教育媒体与心理、AI4STEM 教育等人工智能教育应用研究。近年来主持国家社会科学基金教育学青年课题“青少年网络亲社会参与的形成机理及培育路径研究”，并参与国家社科基金一般课题、教育部全国教育科学“十三五”规划重点课题等国家级、省部级课题共 7 项；编著青少年科普读物《大国少年工程科普丛书》1 套；在 SCI、SSCI、CSSCI 等高水平期刊发表论文 18 篇，代表性成果发表于《Journal of Computer Assisted Learning》《International Journal of Technology and Design Education》等国际期刊，研究内容涵盖计算思维、STEM 教育、生成式 AI 教学应用等方面。教学方面，主讲《教学系统设计》《中学信息技术教材研究》《智能媒体传播》等课程，注重理论与实践结合，积极引导学生参与科研项目与教学创新实践。",
+      "en": "Wenbo Deng, Ph.D., is an Associate Professor and Master Supervisor at the Department of Educational Technology, Yangzhou University. His research focuses on AI educational applications including educational media and psychology, AI4STEM education, and generative AI in teaching. In recent years, he has led a National Social Science Fund youth project on adolescent online prosocial participation and contributed to seven national and provincial projects. He has also authored a youth science popularization book series and published eighteen papers in SCI, SSCI, and CSSCI journals. His teaching covers instructional system design, secondary school IT textbook studies, and intelligent media communication, with a strong emphasis on linking theory to practice."
+    },
+    "highlights": [
+      {
+        "zh": "教育媒体与心理",
+        "en": "Educational Media & Psychology"
+      },
+      {
+        "zh": "AI4STEM 教育",
+        "en": "AI4STEM Education"
+      },
+      {
+        "zh": "生成式 AI 教学应用",
+        "en": "Generative AI in Teaching"
+      },
+      {
+        "zh": "计算思维与教学设计",
+        "en": "Computational Thinking & Design"
+      }
+    ],
+    "stats": [
+      {
+        "value": "18+",
+        "label": {
+          "zh": "高水平论文",
+          "en": "Peer-reviewed papers"
+        }
+      },
+      {
+        "value": "7",
+        "label": {
+          "zh": "国家级 / 省部级课题",
+          "en": "National / provincial projects"
+        }
+      },
+      {
+        "value": "1",
+        "label": {
+          "zh": "青少年科普丛书",
+          "en": "Youth science book series"
+        }
+      }
+    ],
+    "researchAreas": [
+      {
+        "title": {
+          "zh": "AI4STEM 教育",
+          "en": "AI4STEM Education"
+        },
+        "body": {
+          "zh": "围绕 STEM 素养、课程整合与跨学科设计，探索 AI 技术如何真正改善中学课堂中的学习体验与教学设计。",
+          "en": "Exploring how AI can improve learning experiences and instructional design in middle-school STEM education through integrated curricula and interdisciplinary practice."
+        }
+      },
+      {
+        "title": {
+          "zh": "教育媒体与心理",
+          "en": "Educational Media & Psychology"
+        },
+        "body": {
+          "zh": "关注学习者认知、情绪、自我效能与网络参与行为，研究技术环境中影响学习与成长的心理机制。",
+          "en": "Studying cognitive, emotional, and self-efficacy factors in technology-mediated learning to better understand how digital environments shape educational development."
+        }
+      },
+      {
+        "title": {
+          "zh": "生成式 AI 教学应用",
+          "en": "Generative AI in Teaching"
+        },
+        "body": {
+          "zh": "从教学助手、课堂支持与学习活动设计等角度，评估生成式 AI 在真实教学场景中的可用性与边界。",
+          "en": "Evaluating generative AI as a teaching assistant, classroom support tool, and learning activity partner in real educational settings."
+        }
+      },
+      {
+        "title": {
+          "zh": "计算思维与教学设计",
+          "en": "Computational Thinking & Design"
+        },
+        "body": {
+          "zh": "结合具身学习与课程设计，推动计算思维在 K-12 阶段的早期发展与可持续教学实践。",
+          "en": "Advancing early computational-thinking development in K-12 through embodied learning frameworks and sustainable instructional design."
+        }
+      }
+    ]
+  },
+  "labels": {
+    "nav": {
+      "research": {
+        "zh": "研究方向",
+        "en": "Research"
+      },
+      "about": {
+        "zh": "个人简介",
+        "en": "About"
+      },
+      "publications": {
+        "zh": "论文成果",
+        "en": "Publications"
+      },
+      "gallery": {
+        "zh": "生活照片",
+        "en": "Gallery"
+      },
+      "contact": {
+        "zh": "联系方式",
+        "en": "Contact"
+      }
+    },
+    "hero": {
+      "eyebrow": {
+        "zh": "Academic Profile",
+        "en": "Academic Profile"
+      },
+      "primaryCta": {
+        "zh": "查看论文成果",
+        "en": "View Publications"
+      },
+      "secondaryCta": {
+        "zh": "发送邮件",
+        "en": "Send Email"
+      },
+      "cardTitle": {
+        "zh": "研究视角",
+        "en": "Research Lens"
+      }
+    },
+    "sections": {
+      "research": {
+        "eyebrow": {
+          "zh": "Research Focus",
+          "en": "Research Focus"
+        },
+        "title": {
+          "zh": "研究方向",
+          "en": "Research Directions"
+        },
+        "intro": {
+          "zh": "围绕人工智能教育应用这一主轴，持续关注课堂、学习者与教学设计之间的互动关系。",
+          "en": "Centered on AI educational applications, these research lines connect classrooms, learners, and instructional design."
+        }
+      },
+      "about": {
+        "eyebrow": {
+          "zh": "About",
+          "en": "About"
+        },
+        "title": {
+          "zh": "个人简介",
+          "en": "Biography"
+        },
+        "intro": {
+          "zh": "聚焦学术研究、项目经历、代表性成果与教学实践，呈现当前的研究工作与学术方向。",
+          "en": "An overview of academic research, funded projects, representative outputs, and teaching practice."
+        },
+        "sideTitle": {
+          "zh": "学术概览",
+          "en": "Academic Snapshot"
+        },
+        "sideText": {
+          "zh": "研究涉及 AI 教育应用、STEM 素养发展、计算思维、学习者心理与教学创新等多个方向。",
+          "en": "Research spans AI in education, STEM literacy, computational thinking, learner psychology, and pedagogical innovation."
+        }
+      },
+      "publications": {
+        "eyebrow": {
+          "zh": "Selected Work",
+          "en": "Selected Work"
+        },
+        "title": {
+          "zh": "论文成果",
+          "en": "Selected Publications"
+        },
+        "intro": {
+          "zh": "选取近年来在人工智能教育、STEM 教育、创造力与学习科学等方向的代表性论文成果。",
+          "en": "A selection of representative publications across AI in education, STEM education, creativity, and the learning sciences."
+        },
+        "openLabel": {
+          "zh": "查看链接",
+          "en": "Open Link"
+        }
+      },
+      "gallery": {
+        "eyebrow": {
+          "zh": "Life Moments",
+          "en": "Life Moments"
+        },
+        "title": {
+          "zh": "生活照片",
+          "en": "Life Gallery"
+        },
+        "intro": {
+          "zh": "在研究之外，也记录一些与生活、观察与日常灵感有关的片段。",
+          "en": "Beyond research, this gallery captures moments of life, observation, and everyday inspiration."
+        }
+      },
+      "contact": {
+        "eyebrow": {
+          "zh": "Contact",
+          "en": "Contact"
+        },
+        "title": {
+          "zh": "欢迎交流",
+          "en": "Let's Connect"
+        },
+        "intro": {
+          "zh": "如果你希望围绕 AI 教育、STEM 教育、教学设计或合作研究进行交流，可以直接通过邮件联系。",
+          "en": "If you would like to discuss AI in education, STEM education, instructional design, or research collaboration, feel free to get in touch by email."
+        },
+        "secondaryCta": {
+          "zh": "看看生活照片",
+          "en": "Browse Gallery"
+        }
+      },
+      "footer": {
+        "counterLabel": {
+          "zh": "页面访问量",
+          "en": "Page Visits"
+        },
+        "counterAlt": {
+          "zh": "主页访问量计数器",
+          "en": "Homepage visit counter"
+        },
+        "rights": {
+          "zh": "保留所有权利",
+          "en": "All rights reserved"
+        },
+        "maintainNote": {
+          "zh": "",
+          "en": ""
+        }
+      }
+    }
+  },
+  "visitorCounter": {
+    "badgeUrl": "https://hitscounter.dev/api/hit?url=https%3A%2F%2Fwenbolz.github.io%2F&label=Visits&icon=github&color=%23198754&message=%23ffffff&style=flat&tz=Asia%2FShanghai",
+    "historyUrl": "https://hitscounter.dev/history?url=https://wenbolz.github.io"
+  }
+}

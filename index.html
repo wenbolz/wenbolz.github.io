@@ -1,14 +1,75 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>W. Deng Profile</title>
-    <script type="module" crossorigin src="/assets/index-C_ufX_P-.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-Dwmyo3Ji.css">
+    <meta
+      name="description"
+      content="Personal homepage of Wenbo Deng featuring biography, research directions, publications, life gallery, and contact details."
+    />
+    <title>Wenbo Deng | Personal Homepage</title>
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
   </head>
   <body>
-    <div id="root"></div>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="page-orb page-orb-left" aria-hidden="true"></div>
+    <div class="page-orb page-orb-right" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="#top">
+          <span class="brand-mark">WD</span>
+          <span class="brand-copy">
+            <strong id="brand-name">邓文博</strong>
+            <span id="brand-role">博士 / 副教授</span>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Main navigation">
+          <div id="nav-links" class="nav-links"></div>
+          <div class="header-actions">
+            <div class="lang-switch" role="group" aria-label="Language switch">
+              <button class="lang-button" data-lang="zh" type="button">中</button>
+              <button class="lang-button" data-lang="en" type="button">EN</button>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section id="hero" class="hero-section shell"></section>
+      <section id="research" class="section shell"></section>
+      <section id="about" class="section shell"></section>
+      <section id="publications" class="section shell"></section>
+      <section id="gallery" class="section shell section-dark"></section>
+      <section id="contact" class="section shell"></section>
+    </main>
+
+    <footer id="footer" class="site-footer"></footer>
+
+    <div id="lightbox" class="lightbox" hidden>
+      <button id="lightbox-close" class="lightbox-close" type="button" aria-label="关闭">
+        ×
+      </button>
+      <button id="lightbox-prev" class="lightbox-arrow lightbox-prev" type="button" aria-label="上一张">
+        ‹
+      </button>
+      <figure class="lightbox-figure">
+        <img id="lightbox-image" src="" alt="" />
+        <figcaption id="lightbox-caption"></figcaption>
+      </figure>
+      <button id="lightbox-next" class="lightbox-arrow lightbox-next" type="button" aria-label="下一张">
+        ›
+      </button>
+    </div>
   </body>
 </html>
-
